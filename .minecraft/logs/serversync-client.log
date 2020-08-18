@@ -1,0 +1,10 @@
+DEBUG:finished loading config
+LOG:Loading language file: en_US
+DEBUG:Establishing a socket connection to the server...
+LOG:< Connecting to server >
+ERROR:Could not connect to server at: aofsi.lab717.com:8124
+DEBUG:Closing connections...
+DEBUG:All of ServerSync's sockets to the server have been closed
+DEBUG:Successfully closed all connections
+DEBUG:Files updated
+ERROR:Errors occurred, please check ip/port details are correct. For a detailed log check the logs folder in your minecraft directory
