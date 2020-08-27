@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2020-08-27T21:54:11.983Z" agent="5.0 (Macintosh)" etag="vU4diIdBWsZft5SRvxc2" version="13.6.5" type="github">
+  <diagram id="4Lyu7zUqw01A9aLVMP5a" name="Page-1">
+    <mxGraphModel dx="1426" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-1" value="Magic" style="shape=mxgraph.signs.nature.jupiter;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-2" value="Tech" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="32" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-3" value="Optimizations" style="shape=mxgraph.signs.people.waiting_room_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="22" width="77" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-4" value="Food" style="shape=mxgraph.signs.food.fast_food;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="150" y="32" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-5" value="QOL - Mech" style="shape=mxgraph.signs.safety.pedestrian_crossing;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="24" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-6" value="QOL - CS/GUI" style="shape=mxgraph.signs.safety.handle_with_care;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="540" y="23" width="91" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-8" value="Building" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="30.25" width="90" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-9" value="Transport" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="900" y="30.25" width="98" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-10" value="Tools" style="shape=mxgraph.signs.sports.firewood;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="30.25" width="101" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-11" value="Weapons" style="shape=mxgraph.signs.sports.archery;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="24.25" width="72" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-12" value="Fun" style="shape=mxgraph.signs.sports.swing;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="27" width="98" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-13" value="Biomes" style="shape=mxgraph.signs.safety.falling_rocks;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="31" width="98" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="9ouVtsVv06oHkvPDf6VA-14" value="Libraries" style="shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="33" width="98" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
